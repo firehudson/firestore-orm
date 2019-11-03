@@ -1,7 +1,7 @@
 {
-  "name": "firestore-orm",
-  "version": "1.0.0",
-  "description": "Boilerplate for npm modules with ES6 features and syntax",
+  "name": "@firehudson/firestore-orm",
+  "version": "1.0.1",
+  "description": "A mongoose like orm for firebase/firestore",
   "main": "./lib/index.js",
   "scripts": {
     "clean": "rimraf lib",
